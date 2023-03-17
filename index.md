@@ -149,9 +149,3 @@
 提交[issues](https://github.com/xx025/carrot/issues)
 或[pr](https://github.com/xx025/carrot/blob/dev/develop.md#向dev分支提交更改)(dev分支)分享你发现的新的站点，或报告失效站点
 
-### 最后更新
-
-> 如果下方时间已经晚于当前时间1h ；请前往上述[GitHub仓库](https://github.com/xx025/carrot)查看最新内容
-> 
-
->Last synced:BeiJingT 2023-03-17 11:24:07
